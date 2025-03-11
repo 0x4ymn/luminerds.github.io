@@ -1,0 +1,7 @@
+title: Luminerds
+baseurl: ""
+url: "https://luminerds.github.io"
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
