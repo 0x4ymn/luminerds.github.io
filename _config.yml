@@ -1,7 +1,8 @@
 title: Luminerds
-baseurl: ""
+baseurl: ""  # leave empty for user sites
 url: "https://luminerds.github.io"
 markdown: kramdown
+# Optional: Jekyll plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
